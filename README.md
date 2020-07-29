@@ -1,4 +1,6 @@
-### Hi there 👋
+### MadCreativity
+
+<marquee>This text will scroll from right to left</marquee>
 
 <!--
 **aam051102/aam051102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
